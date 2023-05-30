@@ -1,0 +1,19 @@
+{
+  "name": "projeto-07-extra",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "lite-server",
+    "dev": "sass ./src/scss/style.scss:./public/css/style.css --watch --style compressed",
+    "home": "sass ./src/scss/home.scss:./public/css/home.css --watch --style compressed",
+    "universo": "sass ./src/scss/universo.scss:./public/css/universo.css --watch --style compressed",
+    "exploracao": "sass ./src/scss/exploracao.scss:./public/css/exploracao.css --watch --style compressed"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  }
+}

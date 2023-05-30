@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,IAAI,CACF,UAAU,CAAE,+CAAiD,CAC7D,MAAM,CAAE,KAAK,CAIb,kBAAc,CACZ,KAAK,CAAE,KAAK,CACZ,WAAW,CAAE,GAAG,CAIpB,IAAI,CACF,WAAW,CAAE,OAAO",
+"sources": ["../../src/scss/universo.scss"],
+"names": [],
+"file": "universo.css"
+}

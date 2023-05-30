@@ -1,0 +1,2 @@
+*{padding:0;margin:0;box-sizing:border-box}:root{font-size:62.5%;--nav: #C4C4CC;--title: #E1E1E6;--button-hover: #02799D}body{font-family:'Roboto', sans-serif}nav{display:flex;gap:3.2rem;font-size:2rem;padding:4rem 7.2rem;align-items:center}nav a{text-decoration:none;color:var(--nav)}h1{font-weight:700;font-size:48px;line-height:125%;color:var(--title)}p{font-weight:400;font-size:18px;line-height:160%;color:var(--title)}.container{display:flex;flex-direction:column;gap:1.6rem;width:64.8rem;margin-top:6.3rem}
+/*# sourceMappingURL=style.css.map */

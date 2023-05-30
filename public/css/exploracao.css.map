@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,IAAI,CACF,UAAU,CAAE,iDAAmD,CAC/D,MAAM,CAAE,KAAK,CAGb,kBAAc,CACZ,KAAK,CAAE,KAAK,CACZ,WAAW,CAAE,GAAG,CAIpB,IAAI,CACF,WAAW,CAAE,OAAO",
+"sources": ["../../src/scss/exploracao.scss"],
+"names": [],
+"file": "exploracao.css"
+}
